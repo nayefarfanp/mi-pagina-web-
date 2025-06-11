@@ -1,4 +1,4 @@
-# mi-pagina-web-
+# -
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +7,7 @@
     <meta name="google-site-verification" content="PkK9GUPVRf-S01rvWAe14NLSbrtFb57dyyOMEDdtCx8" />
     <meta name="keywords" content="Aleshka, Nicole, Beltrán, Gutiérrez">
     <meta name="autor" contend="Aleshka Nicole Beltrán Gutiérrez">
-    <title>Aleshka Nicole Beltrán Gutiérrez</title>
+    <title>Angeles Nayeli Farfan Pinazo</title>
     <style>
       h1 {
            text-align: center;
