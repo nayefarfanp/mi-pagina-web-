@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-site-verification" content="PkK9GUPVRf-S01rvWAe14NLSbrtFb57dyyOMEDdtCx8" />
-    <meta name="keywords" content="Aleshka, Nicole, Beltrán, Gutiérrez">
+    <meta name="keywords" content="Angeles, Nayeli, Farfan, Pinazo">
     <meta name="autor" contend="Aleshka Nicole Beltrán Gutiérrez">
     <title>Angeles Nayeli Farfan Pinazo</title>
     <style>
