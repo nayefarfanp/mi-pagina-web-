@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Mi Página Personal</title>
+  <title>Mi Página Web</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -39,24 +39,39 @@
 <body>
 
   <header>
-    <h1>¡Hola! Soy [Tu Nombre]</h1>
-    <p>Bienvenido/a a mi página personal</p>
+    <h1>¡Hola! Soy Nayeli</h1>
+    <p>Bienvenido/a a mi página web</p>
   </header>
 
   <section class="contenido">
     <h2>Sobre mí</h2>
-    <p><strong>Nombre:</strong> [Tu nombre completo]</p>
-    <p><strong>Curso:</strong> [Nombre del curso que estás llevando]</p>
-
-    <h3>Descripción personal</h3>
+    <p><strong>Nombre:</strong> Angeles Nayeli Farfan Pinazo</p>
     <p>
-      Soy una persona [adjetivos como responsable, creativa, amable...]. Me gusta [tus intereses: leer, escuchar música, jugar fútbol, programar, etc.]. 
-      Actualmente estoy llevando el curso de [nombre del curso], donde estoy aprendiendo nuevas habilidades que me ayudarán en mi desarrollo personal y profesional.
+      Soy una persona responsable, creativa, honesta, adaptable.  
     </p>
+    <p><strong> Estoy Cursando:</strong> </p>
+    <p>- Analisis financiero</p>
+      <p>- Macroeconomia</p>
+      <p>- Teologia II</p>
+      <p>- Moral</p>
+      <p>- Introducción de Ciencia de la Computación:</p>
+      <p> Profesor: <a href="https://www.linkedin.com/in/ecuadrosv/"> Ernesto Cuadros</a></p>
+     <h3> Idiomas:</h3>
+    <p>- Frances (avanzado)</p>
+    <p>- Frances (intermedio)</p>
+    <p>- Español (nativo)</p>
+      <h3> Compañeros:</h3>
+      <p> <a href="https://mariapazgonzalesleon.github.io/"> Maria Paz Gonzales</a></p>
+      <p> <a href="https://josuemontenegro.com/"> Josue Montenegro </a></p>
+      <h3> Contacto</h3>
+     <h3> Contacto</h3>
+    <p><a href="https://www.linkedin.com/in/angeles-nayeli-farfan-pinazo-575523359/"> LinkedIn</a></p>
+    <p><a href="https://github.com/nayefarfanp"> GitHub</a></p>
+    <h3>Descripción personal</h3>
   </section>
 
   <footer>
-    <p>© 2025 [Tu Nombre]</p>
+    <p>© 2025 [angeles.farfan@ucsp.edu.pe]</p>
   </footer>
 
 </body>
