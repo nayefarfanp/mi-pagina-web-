@@ -2,7 +2,6 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Mi Página Web</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -44,10 +43,10 @@
   </header>
 
   <section class="contenido">
-    <h2>Sobre mí</h2>
+    <h2>Sobre mí:</h2>
     <p><strong>Nombre:</strong> Angeles Nayeli Farfan Pinazo</p>
     <p>
-      Soy una persona responsable, creativa, honesta, adaptable.  
+      Soy una persona responsable, creativa, honesta, adaptable, en el trabajo y en mi vida personal. 
     </p>
     <p><strong> Estoy Cursando:</strong> </p>
     <p>- Analisis financiero</p>
@@ -58,20 +57,18 @@
       <p> Profesor: <a href="https://www.linkedin.com/in/ecuadrosv/"> Ernesto Cuadros</a></p>
      <h3> Idiomas:</h3>
     <p>- Frances (avanzado)</p>
-    <p>- Frances (intermedio)</p>
+    <p>- Ingles (intermedio)</p>
     <p>- Español (nativo)</p>
       <h3> Compañeros:</h3>
       <p> <a href="https://mariapazgonzalesleon.github.io/"> Maria Paz Gonzales</a></p>
       <p> <a href="https://josuemontenegro.com/"> Josue Montenegro </a></p>
       <h3> Contacto</h3>
-     <h3> Contacto</h3>
     <p><a href="https://www.linkedin.com/in/angeles-nayeli-farfan-pinazo-575523359/"> LinkedIn</a></p>
     <p><a href="https://github.com/nayefarfanp"> GitHub</a></p>
-    <h3>Descripción personal</h3>
   </section>
 
   <footer>
-    <p>© 2025 [angeles.farfan@ucsp.edu.pe]</p>
+    <p>©[angeles.farfan@ucsp.edu.pe]</p>
   </footer>
 
 </body>
