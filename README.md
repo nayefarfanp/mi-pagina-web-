@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <style>
     body {
-      font-family: Aptos Narrow, sans-serif;
+      font-family: Aptos Narrow;
       background-color: #f2f2f2;
       margin: 0;
       padding: 0;
