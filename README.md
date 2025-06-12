@@ -45,12 +45,12 @@
   <section class="contenido">
     <h2>Sobre mí:</h2>
     <p><strong>Nombre:</strong> Angeles Nayeli Farfan Pinazo Actualmente soy estudiante de la <a href="https://ucsp.edu.pe/">Universidad Catolica San Pablo</a> y me encuentro estudiando mi quinto semestre de la carrera de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/">Administración de Negocios</a> </p>
+     Soy una persona responsable, creativa, honesta, adaptable, en el trabajo y en mi vida personal. 
      <h2> Trayectoria </h2>
     <p>Formación:</p>
     <p>- <a href="https://cnspilar.edu.pe/">Colegio Nuestra Señora del Pilar</a> (inicial-primaria-secundaria)</p>
     <p>- <a href="https://ucsp.edu.pe/">Universidad Catolica San Pablo</a> (educación superior-actualidad)</p>
     <p>
-      Soy una persona responsable, creativa, honesta, adaptable, en el trabajo y en mi vida personal. 
     </p>
     <p><strong> Estoy Cursando:</strong> </p>
     <p>- Analisis financiero</p>
