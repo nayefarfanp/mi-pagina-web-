@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -29,7 +28,7 @@
       <p>- Introducción de Ciencia de la Computación:</p>
       <p> Profesor: <a href="https://www.linkedin.com/in/ecuadrosv/"> Ernesto Cuadros</a></p>
       <h3> Compañeros:</h3>
-      <p> <a href="https://mariapazgonzalesleon.github.io/"> maria gonzales </a></p>
+      <p> <a href="https://mariapazgonzalesleon.github.io/"> Maria Gonzales </a></p>
       <p> <a href="https://josuemontenegro.com/"> Josue Montenegro </a></p>
       <h3> Contacto</h3>
     <p> Correo:angeles.farfan@ucsp.edu.pe</p>
