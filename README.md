@@ -10,7 +10,7 @@
       padding: 0;
     }
     header {
-      background-color: #4CAF50;
+      background-color: #5fc7e1;
       color: white;
       padding: 20px;
       text-align: center;
