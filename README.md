@@ -10,7 +10,7 @@
       padding: 0;
     }
     header {
-      background-color: #5fc7e1;
+      background-color: #7dcb40;
       color: white;
       padding: 20px;
       text-align: center;
@@ -27,7 +27,7 @@
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
     footer {
-      background-color: #333;
+      background-color: #baf090;
       color: white;
       text-align: center;
       padding: 10px;
@@ -44,7 +44,7 @@
 
   <section class="contenido">
     <h2>Sobre mí:</h2>
-    <p><strong>Nombre:</strong> Angeles Nayeli Farfan Pinazo Actualmente soy estudiante de la <a href="https://ucsp.edu.pe/">Universidad Catolica San Pablo</a> y me encuentro estudiando mi quinto semestre de la carrera de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/">Administración de Negocios</a> </p>
+    <p> Angeles Nayeli Farfan Pinazo. Actualmente soy estudiante de la <a href="https://ucsp.edu.pe/">Universidad Catolica San Pablo</a> y me encuentro estudiando mi quinto semestre de la carrera de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/">Administración de Negocios</a> </p>
      Soy una persona responsable, creativa, honesta, adaptable, en el trabajo y en mi vida personal. 
      <h2> Trayectoria </h2>
     <p>Formación:</p>
@@ -72,7 +72,7 @@
   </section>
 
   <footer>
-    <p>©[angeles.farfan@ucsp.edu.pe]</p>
+    <p>©angeles.farfan@ucsp.edu.pe</p>
   </footer>
 
 </body>
