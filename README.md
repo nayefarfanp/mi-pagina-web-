@@ -10,7 +10,7 @@
       padding: 0;
     }
     header {
-      background-color: #7dcb40;
+      background-color: #4682B4;
       color: white;
       padding: 20px;
       text-align: center;
@@ -21,7 +21,7 @@
     .contenido {
       max-width: 800px;
       margin: auto;
-      background-color: red;
+      background-color: LightSteelBlue;
       padding: 20px;
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0,0,0,4);
