@@ -21,13 +21,13 @@
     .contenido {
       max-width: 800px;
       margin: auto;
-      background-color: white;
+      background-color: red;
       padding: 20px;
       border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      box-shadow: 0 0 10px rgba(0,0,0,4);
     }
     footer {
-      background-color: #baf090;
+      background-color: #333;
       color: white;
       text-align: center;
       padding: 10px;
