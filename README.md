@@ -66,6 +66,7 @@
       <h3> Compañeros:</h3>
       <p> <a href="https://mariapazgonzalesleon.github.io/"> Maria Paz Gonzales</a></p>
       <p> <a href="https://josuemontenegro.com/"> Josue Montenegro </a></p>
+      <p> <a href="https://ariana6240.github.io/ArianaMicaelaFernandezCarpio/"> Ariana Fernandez </a></p>
       <h3> Contacto</h3>
     <p><a href="https://www.linkedin.com/in/angeles-nayeli-farfan-pinazo-575523359/"> LinkedIn</a></p>
     <p><a href="https://github.com/nayefarfanp"> GitHub</a></p>
