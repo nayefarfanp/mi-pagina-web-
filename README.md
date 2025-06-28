@@ -69,6 +69,8 @@
       <p> <a href="https://ariana6240.github.io/ArianaMicaelaFernandezCarpio/"> Ariana Fernandez </a></p>
       <p> <a href="https://mariaquintog.github.io/"> Maria Alessandra Quinto </a></p>
       <p> <a href="https://kiacondo.github.io/mipaginawebdma/"> Danamaris Condo </a></p>
+      <p> <a href="https://fiorellacanasa.github.io/fiorella-canasa/"> Fiorella Canasa </a></p> 
+      <p> <a href="https://jimenaq25.github.io/Jimena-Sofia-Quiroz-Bautista/"> Jimena Quiroz </a></p>
       <h3> Contacto</h3>
     <p><a href="https://www.linkedin.com/in/angeles-nayeli-farfan-pinazo-575523359/"> LinkedIn</a></p>
     <p><a href="https://github.com/nayefarfanp"> GitHub</a></p>
