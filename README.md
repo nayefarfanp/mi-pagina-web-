@@ -53,11 +53,15 @@
     <p>
     </p>
     <p><strong> Estoy Cursando:</strong> </p>
-    <p>- Analisis financiero</p>
-      <p>- Macroeconomia</p>
       <p>- Teologia II</p>
+      <p> Asistente: <a href="https://www.linkedin.com/in/nelani-lourdes-de-la-torre-vera-201a5566/"> Nelani De La Torre</a></p>
       <p>- Moral</p>
-      <p>- Introducción de Ciencia de la Computación:</p>
+      <p> Profesor: <a href="https://www.linkedin.com/in/roger-miller-silva-47374b35/"> Roger Miller</a></p>
+      <p>- Analisis Financiero</p>
+      <p> Profesor: <a href="https://www.linkedin.com/in/mar%C3%ADa-bel%C3%A9n-bocchio-linares-96846035/"> Maria Belen Bocchio</a></p>
+      <p>- Macroeconomia</p>
+      <p> Profesor: <a href="https://www.linkedin.com/in/lieslie-gallegos-arias-investigador-renacyt-773713a5/"> Lieslie Gallegos</a></p>
+      <p>- Introducción de Ciencia de la Computación</p>
       <p> Profesor: <a href="https://www.linkedin.com/in/ecuadrosv/"> Ernesto Cuadros</a></p>
      <h3> Idiomas:</h3>
     <p>- Frances (avanzado)</p>
